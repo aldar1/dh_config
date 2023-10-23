@@ -19,4 +19,4 @@ spring:
       password: 123456
       authentication-database: admin
 server:
-  port: 7001
+  port: 8080
